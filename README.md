@@ -1,6 +1,7 @@
 # Airline-Scheduling-System
 
 ## Project Information
+*Github Link*: [Link to project](https://github.com/teobot/Airline-Scheduling-System)  
 *Unit title*: **Advanced Programming**  
 *Project Language*: **Java**  
 *Assignment set by*: **K. Welsh**  
