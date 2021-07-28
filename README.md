@@ -1,5 +1,7 @@
 # Airline-Scheduling-System
 
+![Image of homepage](https://raw.githubusercontent.com/teobot/my-portfolio/main/src/img/aircraftsceduler-min.png)
+
 ## Project Information
 *Github Link*: [Link to project](https://github.com/teobot/Airline-Scheduling-System)  
 *Unit title*: **Advanced Programming**  
